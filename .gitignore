@@ -1,9 +1,9 @@
 SQLpdf/build/
 SQLpdf/nbproject/private/
 SQLpdf/dist/
-BaseImagen/build/
-BaseImagen/nbproject/private/
-BaseImagen/dist/
-SQLImagen/dist/
-SQLImagen/nbproject/private/
-SQLImagen/build/
+Imagenes SQL/BaseImagen/build/
+Imagenes SQL/BaseImagen/nbproject/private/
+Imagenes SQL/BaseImagen/dist/
+Imagenes SQL/SQLImagen/dist/
+Imagenes SQL/SQLImagen/nbproject/private/
+Imagenes SQL/SQLImagen/build/
