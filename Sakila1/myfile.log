@@ -1,0 +1,2 @@
+Error BD Ejecuta Cannot invoke "java.sql.Statement.executeUpdate(String)" because "this.stmt" is null
+
